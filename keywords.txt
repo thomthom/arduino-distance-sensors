@@ -1,0 +1,22 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+IDistanceSensor	KEYWORD1
+SharpGP2D120X	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+read	KEYWORD2
+readRaw	KEYWORD2
+minDistance	KEYWORD2
+maxDistance	KEYWORD2
+isValidDistance	KEYWORD2
+
+
+######################################
+# Constants (LITERAL1)
+#######################################
